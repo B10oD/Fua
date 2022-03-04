@@ -1,236 +1,100 @@
- .u-section-1 {
-  background-image: none;
-}
-
 .u-section-1 .u-sheet-1 {
-  min-height: 63px;
+  min-height: 835px;
 }
 
-.u-section-1 .u-layout-wrap-1 {
-  margin: 70px 0;
-}
-
-.u-section-1 .u-image-1 {
-  min-height: 600px;
-  background-image: url("images/wall-murals-confetti.jpg-8.jpg");
-  background-position: 50% 50%;
+.u-section-1 .u-post-details-1 {
+  min-height: 375px;
+  margin-top: 60px;
+  margin-bottom: -10px;
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 30px 60px;
+  padding: 30px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 486px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
 }
 
 .u-section-1 .u-text-1 {
-  font-family: Roboto, sans-serif;
-  font-size: 3rem;
-  font-weight: normal;
-  margin: 0 auto 0 0;
+  margin-top: 20px;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+.u-section-1 .u-metadata-1 {
+  margin-top: 30px;
+  margin-bottom: 0;
+  margin-left: 0;
 }
 
 .u-section-1 .u-text-2 {
-  font-family: "Open Sans", sans-serif;
-  font-size: 1rem;
-  margin: 20px 0 0;
-}
-
-.u-section-1 .u-btn-1 {
-  text-transform: uppercase;
-  font-size: 0.875rem;
-  letter-spacing: 2px;
-  background-image: none;
-  border-style: none none solid;
-  margin: 20px auto 0 0;
-  padding: 0;
-}
-
-.u-section-1 .u-image-2 {
-  min-height: 300px;
-  background-image: url("images/0e4adf8608c19ab81ea0a8fc08532401.jpg");
-  background-position: 50% 50%;
-}
-
-.u-section-1 .u-container-layout-2 {
-  padding: 30px 60px;
-}
-
-.u-section-1 .u-image-3 {
-  min-height: 300px;
-  background-image: url("images/4dd5e90327d03ae4229a7732f6dfdf5e.jpg");
-  background-position: 50% 50%;
-}
-
-.u-section-1 .u-container-layout-3 {
-  padding: 30px 60px;
+  margin-bottom: 0;
+  margin-top: 20px;
+  margin-left: 0;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
+  .u-section-1 .u-post-details-1 {
+    height: 715px;
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 495px;
-  }
-
-  .u-section-1 .u-btn-1 {
-    width: 107px;
-    height: 24px;
-  }
-
-  .u-section-1 .u-image-2 {
-    min-height: 247px;
-  }
-
-  .u-section-1 .u-image-3 {
-    min-height: 247px;
+    margin-left: initial;
   }
 }
 
 @media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 782px;
+  }
+
+  .u-section-1 .u-post-details-1 {
+    margin-bottom: 60px;
+    height: 662px;
+  }
+
   .u-section-1 .u-image-1 {
-    min-height: 100px;
-  }
-
-  .u-section-1 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-1 .u-image-2 {
-    min-height: 378px;
-  }
-
-  .u-section-1 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-1 .u-image-3 {
-    min-height: 378px;
-  }
-
-  .u-section-1 .u-container-layout-3 {
-    padding-left: 30px;
-    padding-right: 30px;
+    height: 423px;
+    margin-left: initial;
   }
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 722px;
+  }
+
+  .u-section-1 .u-post-details-1 {
+    height: 602px;
+  }
+
   .u-section-1 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
   }
 
-  .u-section-1 .u-image-2 {
-    min-height: 284px;
-  }
-
-  .u-section-1 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-1 .u-image-3 {
-    min-height: 284px;
-  }
-
-  .u-section-1 .u-container-layout-3 {
-    padding-left: 10px;
-    padding-right: 10px;
+  .u-section-1 .u-image-1 {
+    height: 354px;
+    margin-top: 9px;
+    margin-left: initial;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 3012px;
+    min-height: 656px;
   }
 
-  .u-section-1 .u-layout-wrap-1 {
-    margin-top: 0;
-    margin-bottom: 16px;
-    margin-right: initial;
-    margin-left: initial;
+  .u-section-1 .u-post-details-1 {
+    height: 536px;
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 1029px;
-    background-size: auto 115%;
-  }
-
-  .u-section-1 .u-container-layout-1 {
-    padding-left: 0;
-  }
-
-  .u-section-1 .u-text-1 {
-    font-family: "Andika New Basic";
-    font-weight: 700;
-    width: auto;
-    font-size: 3.75rem;
-    margin-top: 337px;
-    margin-left: -21px;
-  }
-
-  .u-section-1 .u-text-2 {
-    font-family: Montserrat;
-    font-size: 2.25rem;
-    width: auto;
-    margin-top: 27px;
-  }
-
-  .u-section-1 .u-btn-1 {
-    margin-top: 0;
-  }
-
-  .u-section-1 .u-image-2 {
-    background-position: 65.4% 16.96%;
-    min-height: 985px;
-  }
-
-  .u-section-1 .u-image-3 {
-    background-position: 17.22% 33.37%;
-    min-height: 982px;
-  }
-} .u-section-2 {
-  background-image: url("images/wall-murals-confetti.jpg-11.jpg");
-}
-
-.u-section-2 .u-sheet-1 {
-  min-height: 416px;
-}
-
-.u-section-2 .u-text-1 {
-  font-weight: 300;
-  width: 780px;
-  font-size: 1rem;
-  margin: 20px auto 0;
-}
-
-@media (max-width: 991px) {
-  .u-section-2 .u-text-1 {
-    width: 720px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-2 .u-text-1 {
-    width: 540px;
-  }
-}
-
-@media (max-width: 575px) {
-   .u-section-2 {
-    background-position: 50% 50%;
-  }
-
-  .u-section-2 .u-sheet-1 {
-    min-height: 960px;
-  }
-
-  .u-section-2 .u-text-1 {
-    width: auto;
-    font-size: 2.25rem;
-    font-weight: 700;
-    margin: 0 0 60px;
+    height: 275px;
+    margin-left: initial;
   }
 }
